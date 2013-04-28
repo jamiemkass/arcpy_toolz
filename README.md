@@ -1,0 +1,1 @@
+These arcpy scripts serve to expand ArcGIS functionality. They can be run on their own using an interpreter like PyScripter, run in the Python Window, or converted into script tools and run from a toolbox. If you are writing a geoprocessing tool, these function scripts can be saved into a separate .py and called by your main script to maintain brevity.
